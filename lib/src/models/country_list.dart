@@ -748,7 +748,7 @@ class Countries {
       "num_code": "68",
       "alpha_2_code": "BO",
       "alpha_3_code": "BOL",
-      "en_short_name": "Bolivia (Plurinational State of)",
+      "en_short_name": "Bolivia",
       "nationality": "Bolivian",
       "dial_code": "+591",
       "nameTranslations": {
@@ -1288,7 +1288,7 @@ class Countries {
       "num_code": "166",
       "alpha_2_code": "CC",
       "alpha_3_code": "CCK",
-      "en_short_name": "Cocos (Keeling) Islands",
+      "en_short_name": "Cocos Islands",
       "nationality": "Cocos Island",
       "dial_code": "+61",
       "nameTranslations": {
@@ -1369,7 +1369,7 @@ class Countries {
       "num_code": "178",
       "alpha_2_code": "CG",
       "alpha_3_code": "COG",
-      "en_short_name": "Congo (Republic of the)",
+      "en_short_name": "Congo",
       "nationality": "Congolese",
       "dial_code": "+242",
       "nameTranslations": {
@@ -1396,7 +1396,7 @@ class Countries {
       "num_code": "180",
       "alpha_2_code": "CD",
       "alpha_3_code": "COD",
-      "en_short_name": "Congo (Democratic Republic of the)",
+      "en_short_name": "Congo",
       "nationality": "Congolese",
       "dial_code": "+243",
       "nameTranslations": {
@@ -1909,7 +1909,7 @@ class Countries {
       "num_code": "238",
       "alpha_2_code": "FK",
       "alpha_3_code": "FLK",
-      "en_short_name": "Falkland Islands (Malvinas)",
+      "en_short_name": "Falkland Islands",
       "nationality": "Falkland Island",
       "dial_code": "+500",
       "nameTranslations": {
@@ -3151,7 +3151,7 @@ class Countries {
       "num_code": "408",
       "alpha_2_code": "KP",
       "alpha_3_code": "PRK",
-      "en_short_name": "Korea (Democratic People's Republic of)",
+      "en_short_name": "North Korea",
       "nationality": "North Korean",
       "dial_code": "+850",
       "nameTranslations": {
@@ -3178,7 +3178,7 @@ class Countries {
       "num_code": "410",
       "alpha_2_code": "KR",
       "alpha_3_code": "KOR",
-      "en_short_name": "Korea (Republic of)",
+      "en_short_name": "South Korea",
       "nationality": "South Korean",
       "dial_code": "+82",
       "nameTranslations": {
@@ -3199,6 +3199,33 @@ class Countries {
         "sr-Latn": "Južna Koreja",
         "zh_TW": "南韓",
         "ar": "كوريا الجنوبية"
+      }
+    },
+    {
+      "num_code": "410",
+      "alpha_2_code": "XK",
+      "alpha_3_code": "XK",
+      "en_short_name": "Kosovo",
+      "nationality": "Kosovian",
+      "dial_code": "+383",
+      "nameTranslations": {
+        "sk": "Kosovo",
+        "se": "Kosovo",
+        "pl": "Kosovo",
+        "no": "Kosovo",
+        "ja": "Kosovo",
+        "it": "Kosovo",
+        "zh": "Kosovo",
+        "nl": "Kosovo",
+        "de": "Kosovo",
+        "fr": "Kosovo",
+        "es": "Kosovo",
+        "en": "Kosovo",
+        "pt_BR": "Kosovo",
+        "sr-Cyrl": "Kosovo",
+        "sr-Latn": "Kosovo",
+        "zh_TW": "Kosovo",
+        "ar": "Kosovo"
       }
     },
     {
@@ -3529,7 +3556,7 @@ class Countries {
       "num_code": "807",
       "alpha_2_code": "MK",
       "alpha_3_code": "MKD",
-      "en_short_name": "Macedonia (the former Yugoslav Republic of)",
+      "en_short_name": "North Macedonia",
       "nationality": "Macedonian",
       "dial_code": "+389",
       "nameTranslations": {
@@ -3880,7 +3907,7 @@ class Countries {
       "num_code": "583",
       "alpha_2_code": "FM",
       "alpha_3_code": "FSM",
-      "en_short_name": "Micronesia (Federated States of)",
+      "en_short_name": "Micronesia",
       "nationality": "Micronesian",
       "dial_code": "+691",
       "nameTranslations": {
@@ -3907,7 +3934,7 @@ class Countries {
       "num_code": "498",
       "alpha_2_code": "MD",
       "alpha_3_code": "MDA",
-      "en_short_name": "Moldova (Republic of)",
+      "en_short_name": "Moldova",
       "nationality": "Moldovan",
       "dial_code": "+373",
       "nameTranslations": {
@@ -5068,7 +5095,7 @@ class Countries {
       "num_code": "663",
       "alpha_2_code": "MF",
       "alpha_3_code": "MAF",
-      "en_short_name": "Saint Martin (French part)",
+      "en_short_name": "Saint Martin",
       "nationality": "Saint-Martinoise",
       "dial_code": "+590",
       "nameTranslations": {
@@ -6418,7 +6445,7 @@ class Countries {
       "num_code": "862",
       "alpha_2_code": "VE",
       "alpha_3_code": "VEN",
-      "en_short_name": "Venezuela (Bolivarian Republic of)",
+      "en_short_name": "Venezuela",
       "nationality": "Venezuelan",
       "dial_code": "+58",
       "nameTranslations": {
@@ -6472,7 +6499,7 @@ class Countries {
       "num_code": "92",
       "alpha_2_code": "VG",
       "alpha_3_code": "VGB",
-      "en_short_name": "Virgin Islands (British)",
+      "en_short_name": "Virgin Islands",
       "nationality": "British Virgin Island",
       "dial_code": "+1284",
       "nameTranslations": {
@@ -6499,7 +6526,7 @@ class Countries {
       "num_code": "850",
       "alpha_2_code": "VI",
       "alpha_3_code": "VIR",
-      "en_short_name": "Virgin Islands (U.S.)",
+      "en_short_name": "Virgin Islands",
       "nationality": "U.S. Virgin Island",
       "dial_code": "+1340",
       "nameTranslations": {
