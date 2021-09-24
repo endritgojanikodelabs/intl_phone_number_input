@@ -9,11 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  meta: ^1.2.3
+  meta: ^1.7.0
 
-  libphonenumber: ^2.0.0
-#  libphonenumber_plugin: ^0.1.0
-  equatable: ^2.0.0
+  libphonenumber: ^2.0.2
+  equatable: ^2.0.3
 
 dev_dependencies:
   flutter_test:
